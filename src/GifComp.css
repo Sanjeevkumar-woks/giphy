@@ -1,0 +1,11 @@
+.gif-display{
+    width: 50%;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aquamarine;
+    overflow: scroll;
+}
+.gif{
+    background-color: blue;
+}
